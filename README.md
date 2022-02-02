@@ -26,6 +26,8 @@
 ![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/03.jpg)
 ![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/04.jpg)
 ![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/05.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/06.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/07.jpg)
 
 ## Функциональность
 - авторизация через Google firebase
