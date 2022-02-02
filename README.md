@@ -21,13 +21,13 @@
 - Разработка велась в приватном репозитории, т.к. были запушены ключи к Firestore. А в данном репозитории последняя версия приложения.
 
 ## Скриншоты
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/01.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/02.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/03.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/04.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/05.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/06.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/main/src/images/readme/07.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/01.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/02.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/03.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/05.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/06.jpg)
+![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/07.jpg)
 
 ## Функциональность
 - авторизация через Google firebase
