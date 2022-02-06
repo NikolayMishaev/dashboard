@@ -1,6 +1,9 @@
 # Dashboard Kit
 ***
-<!-- [ссылка на gh-pages](https://nikolaymishaev.github.io/Kanban-test-task/) -->
+- ссылка на приложение ( находится в процессе разработки)
+- [ссылка на макет](https://www.figma.com/file/mK4nf7Y0sBpQ9EpNOsBjHL/Figma-Admin-Dashboard-UI-Kit-(Free)-(Copy)?node-id=0%3A1)
+- [ссылка на задание № 1](https://disk.yandex.ru/i/cZXOoG1fUWSdqw)
+- [ссылка на задание № 2](https://disk.yandex.ru/i/Ehe_U5OPnJfaCw)
 
 ## Описание
 - Выполнение тестового задания по созданию доски задач с запросами к Firebase/Firestore
