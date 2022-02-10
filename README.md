@@ -1,4 +1,4 @@
-# Dashboard
+# Dashboard Kit
 ***
 - ссылка на приложение ( находится в процессе разработки)
 - [ссылка на макет](https://www.figma.com/file/mK4nf7Y0sBpQ9EpNOsBjHL/Figma-Admin-Dashboard-UI-Kit-(Free)-(Copy)?node-id=0%3A1)
