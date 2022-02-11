@@ -18,10 +18,11 @@
 ![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/05.jpg)
 
 ## Технологии
-  - Typescript
+  - React
   - Redux Toolkit (createSlice, createAsyncThunk)
-  - Firebase/Firestore
+  - Typescript
   - MUI
+  - Firebase
 
 ## Функциональность
 - google авторизация 
