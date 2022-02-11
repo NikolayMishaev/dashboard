@@ -1,5 +1,5 @@
 # Приложение Dashboard Kit
-- репозиторий является копией приватного, в который были запушены ключи к Firebase
+- репозиторий является копией приватного, в котором были запушены ключи к Firebase
 ***
 - видеообзор (в процессе разработки)
 - деплой (в процессе разработки)
@@ -11,11 +11,12 @@
 - приложение для работы с тикетами
 
 ## Скриншоты
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/01.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/02.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/03.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/05.jpg)
+
+![диаграмма тикетов](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
+![отображение тикетов в виде списка](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/03.jpg)
+![отображение тикетов в виде карточек](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/01.jpg)
+![создание тикета](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/02.jpg)
+![редактирование тикета](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/05.jpg)
 
 ## Технологии
   - React
@@ -35,24 +36,23 @@
 - валидация форм
 - навигация страниц
 - debounce
-- сохранение настроек в store
 - уведомления о событиях, ошибках
 - выбор тем
 - лоадер
 - адаптивная верстка
 
 ## Планы
-- переработать сложную логику условий по принципу FSM
-- сохранение данных в localStorage
+- переписать сложную логику условий по принципу FSM
 - добавить: 
+  - localStorage
   - Redux Saga
   - инструменты мемоизации
-  - HOC-компоненты
+  - HOCs
   - кастомные хуки
   - порталы
   - предохранители
   - react-helmet
   - доступность с клавиатуры
   - Skeleton
-  - мобильная версия
+  - мобильную версию
   - деплой
