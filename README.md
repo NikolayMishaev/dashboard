@@ -1,45 +1,58 @@
-# Kanban
+# Приложение «Dashboard Kit»
+- репозиторий является копией приватного, в котором были запушены ключи к Firebase
 ***
-<!-- [ссылка на gh-pages](https://nikolaymishaev.github.io/Kanban-test-task/) -->
+- видеообзор (в процессе разработки)
+- деплой (в процессе разработки)
+- [макет](https://www.figma.com/file/mK4nf7Y0sBpQ9EpNOsBjHL/Figma-Admin-Dashboard-UI-Kit-(Free)-(Copy)?node-id=0%3A1)
+- [задание 1](https://disk.yandex.ru/i/cZXOoG1fUWSdqw)
+- [задание 2](https://disk.yandex.ru/i/Ehe_U5OPnJfaCw)
 
 ## Описание
-- Выполнение тестового задания по созданию доски задач с запросами к Firestore.
-- В проекте подключены и используются:
-- firebase
-- react-hook-form
-- react-router-dom
-- MUI
-- styled-components
-- emotion/styled
-- nivo/bar
-- react-hot-toast
-- date-fns
-- debounce
-- Используется стейт-менеджер redux, redux/toolkit
-- Сайд-эффекты выполняются чз createAsyncThunk в Redux
-- Проект создавался в несколько этапов, на последнем был переписан на Typescript
-- Разработка велась в приватном репозитории, т.к. были запушены ключи к Firestore. А в данном репозитории последняя версия приложения.
+- приложение для работы с тикетами
 
 ## Скриншоты
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/01.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/02.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/03.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/05.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/06.jpg)
-![](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/07.jpg)
+
+![диаграмма тикетов](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
+![отображение тикетов в виде списка](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/03.jpg)
+![отображение тикетов в виде карточек](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/01.jpg)
+![создание тикета](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/02.jpg)
+![редактирование тикета](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/05.jpg)
+
+## Технологии
+  - React
+  - Redux Toolkit (createSlice, createAsyncThunk)
+  - Typescript
+  - MUI
+  - Firebase
 
 ## Функциональность
-- авторизация через Google firebase
-- выбор темы в приложении
-- навигация по страницам
-- добавление, удаление, изменение тикетов
-- пагинация, сортировка, поиск тикетов
-- выбор отображения тикетов: список или карточки
-- минимальная адаптивная верстка, основная задача Функциональность
-- обработка ошибок при асинхронных запросах
-- логика создания объекта с данными для отображения на их основе графика доски задач с помощью библиотеки nivo
+- google авторизация 
+- операции с тикетами:
+  - создание, чтение, обновление, удаление
+  - построение диаграммы (nivo)
+  - пагинация, сортировка, поиск, вид:
+    - список
+    - карточки
+- валидация форм
+- навигация страниц
+- debounce
+- уведомления о событиях, ошибках
+- выбор тем
+- лоадер
+- адаптивная верстка
 
-## Планы по доработке проекта
-
-добавить сохранение данных пользователя в localStorage
+## Планы
+- переписать сложную логику условий по принципу FSM
+- добавить: 
+  - localStorage
+  - Redux Saga
+  - инструменты мемоизации
+  - HOCs
+  - кастомные хуки
+  - порталы
+  - предохранители
+  - react-helmet
+  - доступность с клавиатуры
+  - Skeleton
+  - мобильную версию
+  - деплой
