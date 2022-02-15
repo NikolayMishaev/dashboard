@@ -2,7 +2,7 @@
 - репозиторий является копией приватного, в котором были запушены ключи к Firebase
 ***
 - видеообзор (в процессе разработки)
-- деплой (в процессе разработки)
+- [приложение](https://dashboard-kit-2022.herokuapp.com)
 - [макет](https://www.figma.com/file/mK4nf7Y0sBpQ9EpNOsBjHL/Figma-Admin-Dashboard-UI-Kit-(Free)-(Copy)?node-id=0%3A1)
 - [задание 1](https://disk.yandex.ru/i/cZXOoG1fUWSdqw)
 - [задание 2](https://disk.yandex.ru/i/Ehe_U5OPnJfaCw)
