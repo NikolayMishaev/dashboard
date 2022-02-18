@@ -1,7 +1,7 @@
 # Приложение «Dashboard Kit»
 - репозиторий является копией приватного, в котором были запушены ключи к Firebase
 ***
-- видеообзор (в процессе разработки)
+- [видеообзор](https://youtu.be/jy3fUkklad0)
 - [приложение](https://dashboard-kit-2022.herokuapp.com)
 - [макет](https://www.figma.com/file/mK4nf7Y0sBpQ9EpNOsBjHL/Figma-Admin-Dashboard-UI-Kit-(Free)-(Copy)?node-id=0%3A1)
 - [задание 1](https://disk.yandex.ru/i/cZXOoG1fUWSdqw)
