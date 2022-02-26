@@ -8,7 +8,7 @@
 
 ## Описание
 - приложение для работы с тикетами
-- разработка велась в [приватном](https://disk.yandex.ru/i/KlEoDlWg1hACtw) репозитории, т.к. случайно были запушены ключи к Firebase
+- разработка велась в [приватном](https://disk.yandex.ru/i/CZJ7dA4ZTEmXXA) репозитории, т.к. случайно были запушены ключи к Firebase
 
 ## Скриншоты
 ![диаграмма тикетов](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
