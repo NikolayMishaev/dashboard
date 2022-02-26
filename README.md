@@ -1,5 +1,4 @@
 # Приложение «Dashboard Kit»
-- репозиторий является копией приватного, в котором были запушены ключи к Firebase
 ***
 - [видеообзор](https://youtu.be/jy3fUkklad0)
 - [приложение](https://dashboard-kit-2022.herokuapp.com)
@@ -9,9 +8,9 @@
 
 ## Описание
 - приложение для работы с тикетами
+- данный репозиторий является копией [приватного](https://disk.yandex.ru/i/KlEoDlWg1hACtw), в котором были запушены ключи к Firebase
 
 ## Скриншоты
-
 ![диаграмма тикетов](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
 ![отображение тикетов в виде списка](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/03.jpg)
 ![отображение тикетов в виде карточек](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/01.jpg)
@@ -41,7 +40,7 @@
 - лоадер
 - адаптивная верстка
 
-## Планы
+## Планы по доработке
 - переписать сложную логику условий по принципу FSM
 - добавить: 
   - localStorage
