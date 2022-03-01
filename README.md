@@ -11,7 +11,7 @@
 - разработка велась в [приватном](https://disk.yandex.ru/i/CZJ7dA4ZTEmXXA) репозитории, т.к. случайно были запушены ключи к Firebase
 
 ## Скриншоты
-![диаграмма тикетов](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/04.jpg)
+![диаграмма тикетов](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/08.jpg)
 ![отображение тикетов в виде списка](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/03.jpg)
 ![отображение тикетов в виде карточек](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/01.jpg)
 ![создание тикета](https://github.com/NikolayMishaev/dashboard_kit/raw/master/src/images/readme/02.jpg)
